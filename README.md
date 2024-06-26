@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **lagoodwin/lagoodwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on...becoming a full stack developer
 <p>🌱 I’m currently learning ...everything front end and back end and then some</p>
-<p>💬 Ask me about ...yoga, qigong, and lucid dreaming :) </p>
+<p>💬 Ask me about ...yoga, qigong, and lucid dreaming 😴 </p>
 <p>😄 Pronouns: ...she/her/hers</p>
-<p>⚡ Fun fact: ...I saw a ghost in an old hotel!</p>
+<p>⚡ Fun fact: ...I once saw a ghost in an old hotel! 👻 </p>

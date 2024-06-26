@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...she/her/hers
 - ⚡ Fun fact: ...I once saw a ghost!
 -->
+🔭 I’m currently working on...becoming a full stack developer
+<p>🌱 I’m currently learning ...everything front end and back end and then some</p>
+<p>💬 Ask me about ...yoga, qigong, and lucid dreaming :) </p>
+<p>😄 Pronouns: ...she/her/hers</p>
+<p>⚡ Fun fact: ...I saw a ghost in an old hotel!</p>
